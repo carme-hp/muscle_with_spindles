@@ -1,0 +1,8 @@
+build_release/
+build_debug/
+__pycache__/
+.sconf_temp/
+.sconsign.dblite
+.scons_node_count
+precice-profiling
+*.log
